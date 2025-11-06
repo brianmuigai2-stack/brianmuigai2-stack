@@ -1,4 +1,5 @@
 # Hey There,
+## My name is Brian Muigai a junior developer currently learning at Moringa school.
 
 # 💫 About Me:
 🔭 I’m currently working on improving my full-stack development skills and building innovative web applications<br><br>👯 I’m looking to collaborate on open-source projects, especially those focused on UI/UX design and frontend development<br><br>🤝 I’m looking for help with advanced JavaScript concepts, React best practices, and backend development<br><br>🌱 I’m currently learning React, Node.js, and advanced CSS techniques to enhance my development skills<br><br>💬 Ask me about UI design principles, creative problem-solving, and my journey as a software engineering student<br><br>⚡ Fun fact: I believe great applications are born at the intersection of functionality and beautiful design
