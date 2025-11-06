@@ -17,7 +17,7 @@
 
 ---
 ### Github Achievements:
-![](https://github-profile-trophy.vercel.app/?username=danielkamweru&theme=tokyonight&no-bg=true&margin-w=10&row=1)
+![](https://github-profile-trophy.vercel.app/?username=brianmuigai2-stack&theme=tokyonight&no-bg=true&margin-w=10&row=1)
 
 ---
 
