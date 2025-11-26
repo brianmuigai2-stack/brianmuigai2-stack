@@ -64,31 +64,30 @@ Showcasing consistent commitment and influence.
 
 ### Development Streaks & Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brianmuigai2-stack&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brianmuigai2-stack&hide_border=true&theme=dark" alt="GitHub Streak" />
 </p>
 
 ### Overall Contributions & Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brianmuigai2-stack&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brianmuigai2-stack&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ### Top Languages & Project Focus
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianmuigai2-stack&show_icons=true&theme=vue-dark&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianmuigai2-stack&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ### Hard-Earned Achievements (Trophies!)
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=brianmuigai2-stack&theme=flat&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=brianmuigai2-stack&theme=flat&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ### Highlighted Contributions
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=brianmuigai2-stack&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=brianmuigai2-stack&limit=5&theme=dark" alt="Top Contributed Repositories" />
 </p>
 
 ---
-
 ## 💡 Words of Wisdom
 
 A daily dose of inspiration and philosophy that drives my work and vision.
