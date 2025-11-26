@@ -73,9 +73,7 @@ Showcasing consistent commitment and influence.
 </p>
 
 ### Top Languages & Project Focus
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianmuigai2-stack&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.eu.org/api/top-langs/?username=brianmuigai2-stack&layout=compact&theme=dark&hide_border=true" alt="Top Languages" /> </p>
 
 ### Hard-Earned Achievements (Trophies!)
 <p align="center">
@@ -87,6 +85,7 @@ Showcasing consistent commitment and influence.
   <img src="https://github-contributor-stats.vercel.app/api?username=brianmuigai2-stack&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
 </p>
 ---
+
 ## 💡 Words of Wisdom
 
 A daily dose of inspiration and philosophy that drives my work and vision.
