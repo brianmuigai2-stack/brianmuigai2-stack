@@ -84,9 +84,8 @@ Showcasing consistent commitment and influence.
 
 ### Highlighted Contributions
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=brianmuigai2-stack&limit=5&theme=dark" alt="Top Contributed Repositories" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=brianmuigai2-stack&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
 </p>
-
 ---
 ## 💡 Words of Wisdom
 
