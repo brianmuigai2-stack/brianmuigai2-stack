@@ -58,22 +58,14 @@ My proficiency spans across the full web development spectrum, enabling me to ta
 
 ---
 
-## 📈 GitHub Impact
+# 📊 GitHub Stats:
 
-Showcasing consistent commitment and influence.
+![](https://github-readme-stats.vercel.app/api?username=brianmuigai2-stack&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-### Development Streaks & Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brianmuigai2-stack&hide_border=true&theme=dark" alt="GitHub Streak" />
-</p>
+![](https://nirzak-streak-stats.vercel.app/?user=brianmuigai2-stack&theme=dark&hide_border=false)<br/>
 
-### Overall Contributions & Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brianmuigai2-stack&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=brianmuigai2-stack&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Top Languages & Project Focus
-<p align="center"> <img src="https://github-readme-stats.eu.org/api/top-langs/?username=brianmuigai2-stack&layout=compact&theme=dark&hide_border=true" alt="Top Languages" /> </p>
 
 ### Hard-Earned Achievements (Trophies!)
 <p align="center">
