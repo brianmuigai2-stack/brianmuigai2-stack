@@ -74,17 +74,17 @@ ry:** Pixel-perfect, responsive, user-centered interfaces.
 
 ### 🔥 Development Streaks
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brianmuigai2&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brianmuigai2&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 ### 📊 Overall Contributions & Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brianmuigai2&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brianmuigai2&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ### 🧠 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianmuigai2&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianmuigai2&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ### **🏆 Hard-Earned Achievements (Trophies!)**
