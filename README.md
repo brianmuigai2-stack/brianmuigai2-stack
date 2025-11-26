@@ -4,6 +4,17 @@
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+
+## 💡 What I Bring to the Table
+
+* **Architectural Leadership:** Designing and implementing scalable, secure, and maintainable full-stack solutions with a strong emphasis on modern JavaScript ecosystems.
+* **UI/UX Mastery:** Transforming intricate design concepts into fluid, responsive, and visually stunning user interfaces using React and advanced CSS frameworks like TailwindCSS.
+* **Performance Optimization:** Obsessed with delivering blazing-fast applications. I specialize in identifying bottlenecks and implementing optimizations across the entire stack.
+* **Technical Mentorship:** Guiding junior developers and fostering a collaborative environment, sharing best practices in code quality, testing, and system design.
+* **Innovation & Problem Solving:** Continuously exploring new technologies and methodologies to solve complex business challenges with creative and efficient solutions.
+
+---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=brianmuigai2-stack&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=brianmuigai2-stack&theme=dark&hide_border=false)<br/>
