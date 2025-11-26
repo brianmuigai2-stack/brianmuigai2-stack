@@ -38,7 +38,7 @@ My proficiency spans across the full web development spectrum, enabling me to ta
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Backend & Database Systems
-![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img-shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
@@ -64,17 +64,17 @@ Showcasing consistent commitment and influence.
 
 ### Development Streaks & Activity
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brianmuigai2-stack&theme=nightowl&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brianmuigai2-stack&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ### Overall Contributions & Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brianmuigai2-stack&theme=transparent&hide_border=true&show_icons=true&title_color=00BFFF&icon_color=00BFFF&text_color=FFF&bg_color=1F222E&hide=prs&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brianmuigai2-stack&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 ### Top Languages & Project Focus
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianmuigai2-stack&theme=transparent&hide_border=true&title_color=00BFFF&text_color=FFF&bg_color=1F222E&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianmuigai2-stack&show_icons=true&theme=vue-dark&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 ### Hard-Earned Achievements (Trophies!)
@@ -94,7 +94,7 @@ Showcasing consistent commitment and influence.
 A daily dose of inspiration and philosophy that drives my work and vision.
 
 <p align="center">
-  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&align=center" alt="Random Inspirational Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=random&theme=dark" alt="Random Inspirational Quote" />
 </p>
 
 ---
