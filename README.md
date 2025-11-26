@@ -17,7 +17,23 @@ I thrive at the intersection of elegant design and solid architectural principle
 ## 💡 What I Bring to the Table
 
 - **Architectural Leadership:** Scalable, secure, modern system design.
-- **UI/UX Mastery:** Pixel-perfect, responsive, user-centered interfaces.
+- **UI/UX Maste# 📈 GitHub Impact
+
+### 🔥 Development Streaks
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brianmuigai2&theme=dark&hide_border=true" />
+</p>
+
+### 📊 Overall Contributions & Metrics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=brianmuigai2&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+</p>
+
+### 🧠 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianmuigai2&layout=compact&theme=dark&hide_border=true" />
+</p>
+ry:** Pixel-perfect, responsive, user-centered interfaces.
 - **Performance Optimization:** Full-stack performance tuning & profiling.
 - **Technical Mentorship:** Guiding aspiring developers with best practices.
 - **Innovation:** Turning complex problems into elegant solutions.
@@ -56,21 +72,19 @@ I thrive at the intersection of elegant design and solid architectural principle
 
 # 📈 GitHub Impact
 
-Showcasing consistent commitment and influence.
-
 ### 🔥 Development Streaks
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brianmuigai2-stack&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=brianmuigai2&theme=dark&hide_border=true" />
 </p>
 
 ### 📊 Overall Contributions & Metrics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brianmuigai2-stack&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=brianmuigai2&show_icons=true&theme=dark&hide_border=true&count_private=true" />
 </p>
 
 ### 🧠 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianmuigai2-stack&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianmuigai2&layout=compact&theme=dark&hide_border=true" />
 </p>
 
 ### **🏆 Hard-Earned Achievements (Trophies!)**
