@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_GITHUB_ID?v=4" width="150px" alt="Brian Muigai Profile Picture" style="border-radius:50%">
+  <img src="https://avatars.githubusercontent.com/u/79966144?v=4" width="150px" alt="Brian Muigai Profile Picture" style="border-radius:50%">
   <h1>Brian Muigai</h1>
   <h3>⚡ Full-Stack Architect | UI/UX Specialist | Passionate Innovator ⚡</h3>
   
@@ -104,7 +104,7 @@ A daily dose of inspiration and philosophy that drives my work and vision.
 I'm always open to discussing new opportunities, collaboration on open-source, or simply talking shop about modern web architecture. Feel free to reach out!
 
 <p align="center">
-  <a href="https://linkedin.com/in/brian-muigai" target="_blank">
+  <a href="https://www.linkedin.com/in/brian-muigai-197210382" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
   </a>
   <a href="mailto:brian11613bmw@gmail.com" target="_blank">
