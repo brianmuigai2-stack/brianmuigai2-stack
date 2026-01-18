@@ -26,6 +26,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=brianmuigai2-stack&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brianmuigai2-stack&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## Graph contribution
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=brianmuigai2-stack&theme=tokyo-night)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=brianmuigai2-stack&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
