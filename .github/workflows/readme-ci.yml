@@ -1,46 +1,37 @@
-name: Daily Profile README Update
+name: Update Profile README
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # runs daily at midnight UTC
+    - cron: '0 0 * * *'   # daily at midnight UTC
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
 
     steps:
-      # 1️⃣ Checkout the repo
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      # 2️⃣ Optional: Install Node.js for scripts
-      - uses: actions/setup-node@v3
-        with:
-          node-version: '18'
-
-      # 3️⃣ Set Last Updated date
-      - name: Update Last Updated Badge
-  run: |
-    DATE=$(date '+%Y-%m-%d %H:%M UTC')
-    if grep -q "Last Updated" README.md; then
-      # Replace the existing badge
-      sed -i "s|!\[Last Updated\](https://img.shields.io/badge/Last%20Updated-[^)]*)|![Last Updated](https://img.shields.io/badge/Last%20Updated-${DATE}-brightgreen)|" README.md
-    else
-      # Prepend the badge if it doesn't exist
-      sed -i "1i![Last Updated](https://img.shields.io/badge/Last%20Updated-${DATE}-brightgreen)" README.md
-    fi
-
-      # 4️⃣ Markdown lint (optional)
-      - name: Lint README
-        uses: reviewdog/action-markdownlint@v0.2.0
-        with:
-          reporter: github-pr-check
-
-      # 5️⃣ Commit and push updates
-      - name: Commit and Push
+      - name: Update Last Updated badge
         run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
+          DATE=$(date '+%Y-%m-%d %H:%M UTC')
+          BADGE="![Last Updated](https://img.shields.io/badge/Last%20Updated-${DATE// /%20}-brightgreen)"
+
+          if grep -q "Last Updated" README.md; then
+            sed -i "s|!\[Last Updated\].*|$BADGE|" README.md
+          else
+            sed -i "1i$BADGE\n" README.md
+          fi
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
           git add README.md
-          git commit -m "Daily Profile README update [skip ci]" || echo "No changes to commit"
+          git diff --cached --quiet || git commit -m "Update README timestamp"
           git push
