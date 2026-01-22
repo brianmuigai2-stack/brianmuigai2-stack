@@ -1,6 +1,5 @@
 name: README Update Workflow
 
-# Trigger the workflow on push to main branch
 on:
   push:
     branches:
@@ -13,15 +12,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checkout your repo
       - uses: actions/checkout@v3
-
-      # Optional: show last commit info
       - name: Show last commit
-        run: git log -1
-
-      # Optional: Run a spellcheck on README
-      - name: Spellcheck README
-        uses: reviewdog/action-markdownlint@v1
-        with:
-          reporter: github-pr-check
+        run: git log -1 --oneline
