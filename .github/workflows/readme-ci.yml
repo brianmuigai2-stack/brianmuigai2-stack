@@ -1,4 +1,4 @@
-name: README Update Workflow
+name: Profile README Workflow
 
 on:
   push:
@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'README.md'
+  workflow_dispatch:
 
 jobs:
   check-readme:
@@ -13,5 +14,17 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
+
       - name: Show last commit
         run: git log -1 --oneline
+
+      # Optional: Markdown lint
+      - name: Markdown Lint
+        uses: reviewdog/action-markdownlint@v0.2.0
+        with:
+          reporter: github-pr-check
+
+      # Optional: Update badge file
+      - name: Update workflow badge
+        run: |
+          echo "![README Workflow](https://github.com/${GITHUB_REPOSITORY}/actions/workflows/readme-ci.yml/badge.svg)" > badge.md
