@@ -1,30 +1,42 @@
-name: Profile README Workflow
+name: Daily Profile README Update
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - 'README.md'
+  schedule:
+    - cron: '0 0 * * *'  # runs daily at midnight UTC
   workflow_dispatch:
 
 jobs:
-  check-readme:
+  update-readme:
     runs-on: ubuntu-latest
 
     steps:
+      # 1️⃣ Checkout the repo
       - uses: actions/checkout@v3
 
-      - name: Show last commit
-        run: git log -1 --oneline
+      # 2️⃣ Optional: Install Node.js for scripts
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18'
 
-      # Optional: Markdown lint
-      - name: Markdown Lint
+      # 3️⃣ Set Last Updated date
+      - name: Update Last Updated Badge
+        run: |
+          DATE=$(date '+%Y-%m-%d %H:%M UTC')
+          sed -i "s|!\[Last Updated\](.*)|![Last Updated](https://img.shields.io/badge/Last%20Updated-${DATE}-brightgreen)|" README.md || echo "Badge not found, adding..."
+          # If badge not found, prepend it
+          grep -q "Last Updated" README.md || sed -i "1i![Last Updated](https://img.shields.io/badge/Last%20Updated-${DATE}-brightgreen)" README.md
+
+      # 4️⃣ Markdown lint (optional)
+      - name: Lint README
         uses: reviewdog/action-markdownlint@v0.2.0
         with:
           reporter: github-pr-check
 
-      # Optional: Update badge file
-      - name: Update workflow badge
+      # 5️⃣ Commit and push updates
+      - name: Commit and Push
         run: |
-          echo "![README Workflow](https://github.com/${GITHUB_REPOSITORY}/actions/workflows/readme-ci.yml/badge.svg)" > badge.md
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "Daily Profile README update [skip ci]" || echo "No changes to commit"
+          git push
