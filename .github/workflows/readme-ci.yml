@@ -20,11 +20,15 @@ jobs:
 
       # 3️⃣ Set Last Updated date
       - name: Update Last Updated Badge
-        run: |
-          DATE=$(date '+%Y-%m-%d %H:%M UTC')
-          sed -i "s|!\[Last Updated\](.*)|![Last Updated](https://img.shields.io/badge/Last%20Updated-${DATE}-brightgreen)|" README.md || echo "Badge not found, adding..."
-          # If badge not found, prepend it
-          grep -q "Last Updated" README.md || sed -i "1i![Last Updated](https://img.shields.io/badge/Last%20Updated-${DATE}-brightgreen)" README.md
+  run: |
+    DATE=$(date '+%Y-%m-%d %H:%M UTC')
+    if grep -q "Last Updated" README.md; then
+      # Replace the existing badge
+      sed -i "s|!\[Last Updated\](https://img.shields.io/badge/Last%20Updated-[^)]*)|![Last Updated](https://img.shields.io/badge/Last%20Updated-${DATE}-brightgreen)|" README.md
+    else
+      # Prepend the badge if it doesn't exist
+      sed -i "1i![Last Updated](https://img.shields.io/badge/Last%20Updated-${DATE}-brightgreen)" README.md
+    fi
 
       # 4️⃣ Markdown lint (optional)
       - name: Lint README
