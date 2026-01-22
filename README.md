@@ -45,6 +45,11 @@
 ## Graph contribution
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=brianmuigai2-stack&theme=tokyo-night)
 
+[![wakatime](https://wakatime.com/badge/user/c9fa9661-cb10-48b1-92d4-ab87355ee0d1.svg)](https://wakatime.com/@c9fa9661-cb10-48b1-92d4-ab87355ee0d1)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-87.66%20million%20lines%20of%20code-blue?style=flat)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=brianmuigai2-stack&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
