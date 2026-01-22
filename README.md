@@ -45,6 +45,11 @@
 ## Graph contribution
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=brianmuigai2-stack&theme=tokyo-night)
 
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C139%20hrs%2050%20mins-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-87.66%20million%20lines%20of%20code-blue?style=flat)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=brianmuigai2-stack&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
