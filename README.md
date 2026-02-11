@@ -46,16 +46,7 @@
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=brianmuigai2-stack&theme=tokyo-night)
 
 ## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-
-```txt
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
+[![wakatime](https://wakatime.com/badge/user/c9fa9661-cb10-48b1-92d4-ab87355ee0d1.svg)](https://wakatime.com/@c9fa9661-cb10-48b1-92d4-ab87355ee0d1)
 
 
 ## 🏆 GitHub Trophies
