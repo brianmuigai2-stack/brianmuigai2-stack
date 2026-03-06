@@ -5,7 +5,7 @@
 **Profile README Workflow Last Updated:** March 06, 2026
 
 ## 🌐 Socials:
-🌐 [Website](https://brianmuigai2-stack.github.io/my-first-website/) 📧 [Email](mailto:contact@example.com) 💼 [LinkedIn](https://linkedin.com/in/yourprofile) 📘 [Facebook](https://facebook.com/yourprofile) 📷 [Instagram](https://instagram.com/yourprofile) 🎵 [TikTok](https://tiktok.com/@yourprofile)
+🌐 [Website](https://brianmuigai2-stack.github.io/my-first-website/)
 
 ## 💻 Tech Stack:
 `React` `Node.js` `PostgreSQL` `MySQL` `Firebase` `GitHub` `Git` `Vercel`
@@ -36,24 +36,25 @@
 
 ### 📊 Contribution Graph
 
-![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=brianmuigai2-stack&show_icons=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brianmuigai2-stack&show_icons=true&theme=dark&hide_border=false&count_private=true)
 
-## 📊 Weekly Development Breakdown
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brianmuigai2-stack&theme=dark&hide_border=false)
 
-<!-- Wakatime stats would go here -->
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=brianmuigai2-stack)
+### 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brianmuigai2-stack&layout=compact&theme=dark&hide_border=false)
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=brianmuigai2-stack)
+![](https://github-profile-trophy.vercel.app/?username=brianmuigai2-stack&theme=darkhub&no-frame=false&margin-w=4)
 
 ## ✍️ Random Dev Quote
 
-> In order to be irreplaceable, one must always be different. - Coco Chanel
+> The best way to predict the future is to invent it. - Alan Kay
 
-## 🔝 Top Contributed Repo
+## 📈 Activity Graph
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=brianmuigai2-stack&limit=5)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=brianmuigai2-stack&theme=react-dark)
 
 ## 🏆 Featured Projects
 
@@ -74,10 +75,6 @@ A list of developer portfolios for your inspiration
 ### [brians-fullstack](https://github.com/brianmuigai2-stack/brians-fullstack)
 Full-stack Podcast Platform
 **JavaScript**
-
-## 💰 You can help me by Donating
-
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/guidelines/download-assets/sm-button-default.png)](https://www.buymeacoffee.com/yourusername)
 
 ---
 
