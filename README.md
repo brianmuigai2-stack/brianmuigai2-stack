@@ -21,22 +21,7 @@
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-# 💫 About Me:
-🔭 I’m currently working on improving my full-stack development skills and building innovative web applications.<br>
-👯 I’m looking to collaborate on open-source projects, especially those focused on UI/UX design and frontend development.<br>
-🤝 I’m looking for help with advanced JavaScript concepts, React best practices, and backend development.<br>
-🌱 I’m currently learning React, Node.js, and advanced CSS techniques to enhance my development skills.<br>
-💬 Ask me about UI design principles, creative problem-solving, and my journey as a software engineering student.<br>
-⚡ Fun fact: I believe great applications are born at the intersection of functionality and beautiful design.
 
-## 💡 What I Bring to the Table
-* **Architectural Leadership:** Designing scalable, secure, and maintainable full-stack solutions.  
-* **UI/UX Mastery:** Turning design concepts into responsive, visually stunning interfaces.  
-* **Performance Optimization:** Delivering blazing-fast applications with minimal bottlenecks.  
-* **Technical Mentorship:** Guiding junior developers and sharing best coding practices.  
-* **Innovation & Problem Solving:** Exploring new tech and creative solutions for complex challenges.
-
----
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=brianmuigai2-stack&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=brianmuigai2-stack&theme=dark&hide_border=false)<br/>
