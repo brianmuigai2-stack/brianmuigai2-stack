@@ -31,9 +31,6 @@
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=brianmuigai2-stack&theme=tokyo-night)
 
 ##  Weekly Development Breakdown
-###  Coding Activity
-<!--START_SECTION:waka-time-->
-<!--END_SECTION:waka-time-->
 
 ###  Detailed Metrics
 <!--START_SECTION:waka-->
