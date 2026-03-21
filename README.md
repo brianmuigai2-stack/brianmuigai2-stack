@@ -45,12 +45,12 @@
 ## Graph contribution
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=brianmuigai2-stack&theme=tokyo-night)
 
-## 📊 Weekly Development Breakdown
-### ⏱️ Coding Activity
+##  Weekly Development Breakdown
+###  Coding Activity
 <!--START_SECTION:waka-time-->
 <!--END_SECTION:waka-time-->
 
-### 📊 Detailed Metrics
+###  Detailed Metrics
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2047%20mins-blue?style=flat)
 
