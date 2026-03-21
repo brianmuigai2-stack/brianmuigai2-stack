@@ -48,6 +48,13 @@
 ## 📊 Weekly Development Breakdown
 [![wakatime](https://wakatime.com/badge/user/c9fa9661-cb10-48b1-92d4-ab87355ee0d1.svg)](https://wakatime.com/@c9fa9661-cb10-48b1-92d4-ab87355ee0d1)
 
+### ⏱️ Coding Activity
+<!--START_SECTION:waka-time-->
+<!--END_SECTION:waka-time-->
+
+### 📊 Detailed Metrics
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=brianmuigai2-stack&theme=radical&no-frame=false&no-bg=true&margin-w=4)
