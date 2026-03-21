@@ -54,6 +54,17 @@
 
 ### 📊 Detailed Metrics
 <!--START_SECTION:waka-->
+
+```txt
+Total Time: 50 hrs 28 mins
+
+JavaScript   18 hrs 58 mins  █████████░░░░░░░░░░░░░░░░   35.74 %
+Python       12 hrs 44 mins  ██████░░░░░░░░░░░░░░░░░░░   23.99 %
+Bash         5 hrs 25 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
+HTML         3 hrs 9 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+TypeScript   2 hrs 58 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
