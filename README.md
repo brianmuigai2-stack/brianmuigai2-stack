@@ -47,24 +47,17 @@ This repository uses GitHub Actions for automated README updates. All workflows 
 
 ###  Detailed Metrics
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-71%20hrs%2038%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.15%20million%20lines%20of%20code-blue?style=flat)
+```txt
+Total Time: 68 hrs 21 mins
 
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               26 repos            ██████████████░░░░░░░░░░░   54.17 % 
-TypeScript               9 repos             █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
-Python                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Ruby                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+JavaScript   25 hrs 39 mins  █████████░░░░░░░░░░░░░░░░   35.82 %
+Python       14 hrs 6 mins   █████░░░░░░░░░░░░░░░░░░░░   19.70 %
+Bash         6 hrs 21 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
+HTML         5 hrs           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
+TypeScript   4 hrs 1 min     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
 ```
 
-
-
-
- Last Updated on 19/05/2026 23:38:35 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
