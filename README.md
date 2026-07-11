@@ -47,17 +47,61 @@ This repository uses GitHub Actions for automated README updates. All workflows 
 
 ###  Detailed Metrics
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%2031%20mins-blue?style=flat)
 
-```txt
-Total Time: 88 hrs 17 mins
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-13.07%20million%20lines%20of%20code-blue?style=flat)
 
-JavaScript    29 hrs 6 mins   ████████░░░░░░░░░░░░░░░░░   31.80 %
-Python        14 hrs 6 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.42 %
-TypeScript    13 hrs 5 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.31 %
-Bash          7 hrs 31 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 %
-HTML          6 hrs 28 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                514 commits         ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
+🌆 Daytime                824 commits         █████████░░░░░░░░░░░░░░░░   37.07 % 
+🌃 Evening                793 commits         █████████░░░░░░░░░░░░░░░░   35.67 % 
+🌙 Night                  92 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   211 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
+Tuesday                  358 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
+Wednesday                433 commits         █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+Thursday                 628 commits         ███████░░░░░░░░░░░░░░░░░░   28.25 % 
+Friday                   309 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+Saturday                 255 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
+Sunday                   29 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 ```
 
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Africa/Nairobi
+
+💬 Programming Languages: 
+TypeScript               52 mins             █████████████████░░░░░░░░   67.39 % 
+Markdown                 15 mins             █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
+HTML                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
+SQL                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+
+💻 Operating System: 
+Linux                    1 hr 17 mins        █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               26 repos            ████████████░░░░░░░░░░░░░   48.15 % 
+TypeScript               14 repos            ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+Python                   7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+Ruby                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+```
+
+
+
+
+ Last Updated on 11/07/2026 22:29:33 UTC
 <!--END_SECTION:waka-->
 
 ## 🏆 GitHub Trophies
